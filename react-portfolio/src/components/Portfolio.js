@@ -1,7 +1,7 @@
-import Reac from "react";
+import React from "react";
 import Project from "./Project";
 
-const project = [
+const projects = [
     {
         id: 0,
         title: "placeholder",
